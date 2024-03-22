@@ -7,4 +7,3 @@ def ada():
     tabulado = f"\t{first_name.lower()} {last_name.lower()}"
     print(tabulado)
 
-ada()
